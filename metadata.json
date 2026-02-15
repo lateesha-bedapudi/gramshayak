@@ -1,0 +1,7 @@
+{
+  "name": "GraminSahayak - Community Impact AI",
+  "description": "An inclusive, voice-first AI platform bridging the information gap for underserved communities by providing simplified access to government schemes, healthcare, and education in regional languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
